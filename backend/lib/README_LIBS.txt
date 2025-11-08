@@ -1,0 +1,2 @@
+Place mysql-connector-java.jar (8.x) and gson-2.10.1.jar here. These jars are not included due to licensing.
+Download from official sites and copy into this folder and also into WEB-INF/lib when importing into Eclipse.
